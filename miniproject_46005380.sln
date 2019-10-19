@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "miniproject_46005380", "miniproject_46005380\miniproject_46005380.rptproj", "{88AA6E5F-52F1-43B0-BCB1-C16A4999844E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88AA6E5F-52F1-43B0-BCB1-C16A4999844E}.Debug|Default.ActiveCfg = Debug
+		{88AA6E5F-52F1-43B0-BCB1-C16A4999844E}.Debug|Default.Build.0 = Debug
+		{88AA6E5F-52F1-43B0-BCB1-C16A4999844E}.Debug|Default.Deploy.0 = Debug
+		{88AA6E5F-52F1-43B0-BCB1-C16A4999844E}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{88AA6E5F-52F1-43B0-BCB1-C16A4999844E}.DebugLocal|Default.Build.0 = DebugLocal
+		{88AA6E5F-52F1-43B0-BCB1-C16A4999844E}.Release|Default.ActiveCfg = Release
+		{88AA6E5F-52F1-43B0-BCB1-C16A4999844E}.Release|Default.Build.0 = Release
+		{88AA6E5F-52F1-43B0-BCB1-C16A4999844E}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
